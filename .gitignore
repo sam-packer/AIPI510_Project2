@@ -1,0 +1,38 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+._*
+
+# Excel / temp files
+~$*
+
+# --- Python cache & virtual environments ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+.env/
+.venv/
+env/
+venv/
+
+# --- Jupyter Notebook checkpoints ---
+.ipynb_checkpoints/
+
+# --- Data or output files (if not version-controlled) ---
+data/processed/
+results/
+*.log
+
+# --- Temporary or editor-specific files ---
+*.swp
+*.tmp
+*~
+.idea/
+.vscode/
+
+# --- OS-specific metadata ---
+.Trashes
+.Spotlight-V100
