@@ -1,7 +1,10 @@
-# --- macOS system files ---
+# macOS system files
 .DS_Store
 .AppleDouble
 ._*
+
+# Excel / temp files
+~$*
 
 # --- Python cache & virtual environments ---
 __pycache__/
