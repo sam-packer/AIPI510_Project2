@@ -1,7 +1,6 @@
 import pandas as pd
-import numpy as np
 
-df = pd.read_csv("../data/raw/cookie_pairs_pilot.csv")
+df = pd.read_csv("../data/raw/cookie_pairs_raw.csv")
 
 df.columns = [c.strip().lower() for c in df.columns]
 
