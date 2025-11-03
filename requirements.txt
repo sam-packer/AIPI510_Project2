@@ -1,4 +1,5 @@
 statsmodels
 pandas
 numpy
-math
+matplotlib
+seaborn
