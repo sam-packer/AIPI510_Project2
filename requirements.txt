@@ -1,5 +1,6 @@
-statsmodels
-pandas
 numpy
+pandas
+scipy
+statsmodels
 matplotlib
 seaborn
